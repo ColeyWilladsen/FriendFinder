@@ -1,0 +1,26 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "-What is FriendFinder? FriendFinder is a basic demonstration of Node.js and Express concepts.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColeyWilladsen/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColeyWilladsen/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/ColeyWilladsen/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
